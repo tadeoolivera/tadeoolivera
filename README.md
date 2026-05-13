@@ -6,7 +6,6 @@
 
 **Estudiante de Ingeniería en Computación · Desarrollador Full-Stack · Automatizaciones**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tadeoolivera.github.io-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://tadeoolivera.github.io)
 [![Email](https://img.shields.io/badge/Email-tadeooliverabloops@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tadeooliverabloops@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tadeo_Olivera-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tadeo-olivera-zapata-761608270)
 
