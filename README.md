@@ -16,7 +16,6 @@
 ## 🙋‍♂️ Sobre mí
 
 - 🎓 Estudiando **Ingeniería en Computación** en la [Universidad de la República (UdelaR)](https://udelar.edu.uy) — graduación esperada 2029
-- 💼 Trabajando como **Desarrollador Freelance & Automatizaciones** en [Mórula](https://morula-contacto.systeme.io/)
 - 📍 Montevideo, Uruguay
 
 ---
@@ -33,7 +32,7 @@
 **Frameworks & Librerías**
 
 ![React](https://img.shields.io/badge/ReactJS-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/AngularJS-DD0031?style=flat-square&logo=angularjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
